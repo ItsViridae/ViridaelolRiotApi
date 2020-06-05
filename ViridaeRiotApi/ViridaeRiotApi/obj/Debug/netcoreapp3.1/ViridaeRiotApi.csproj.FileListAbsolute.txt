@@ -1,0 +1,12 @@
+C:\Users\scomeaux\source\repos\NickAPIs\RiotApiCode\RiotApiPrograming\ViridaeRiotApi\ViridaeRiotApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\scomeaux\source\repos\NickAPIs\RiotApiCode\RiotApiPrograming\ViridaeRiotApi\ViridaeRiotApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\scomeaux\source\repos\NickAPIs\RiotApiCode\RiotApiPrograming\ViridaeRiotApi\ViridaeRiotApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\scomeaux\source\repos\NickAPIs\RiotApiCode\RiotApiPrograming\ViridaeRiotApi\ViridaeRiotApi\bin\Debug\netcoreapp3.1\ViridaeRiotApi.exe
+C:\Users\scomeaux\source\repos\NickAPIs\RiotApiCode\RiotApiPrograming\ViridaeRiotApi\ViridaeRiotApi\obj\Debug\netcoreapp3.1\ViridaeRiotApi.csprojAssemblyReference.cache
+C:\Users\scomeaux\source\repos\NickAPIs\RiotApiCode\RiotApiPrograming\ViridaeRiotApi\ViridaeRiotApi\obj\Debug\netcoreapp3.1\ViridaeRiotApi.AssemblyInfoInputs.cache
+C:\Users\scomeaux\source\repos\NickAPIs\RiotApiCode\RiotApiPrograming\ViridaeRiotApi\ViridaeRiotApi\obj\Debug\netcoreapp3.1\ViridaeRiotApi.AssemblyInfo.cs
+C:\Users\scomeaux\source\repos\NickAPIs\RiotApiCode\RiotApiPrograming\ViridaeRiotApi\ViridaeRiotApi\obj\Debug\netcoreapp3.1\ViridaeRiotApi.RazorTargetAssemblyInfo.cache
+C:\Users\scomeaux\source\repos\NickAPIs\RiotApiCode\RiotApiPrograming\ViridaeRiotApi\ViridaeRiotApi\obj\Debug\netcoreapp3.1\staticwebassets\ViridaeRiotApi.StaticWebAssets.Manifest.cache
+C:\Users\scomeaux\source\repos\NickAPIs\RiotApiCode\RiotApiPrograming\ViridaeRiotApi\ViridaeRiotApi\obj\Debug\netcoreapp3.1\staticwebassets\ViridaeRiotApi.StaticWebAssets.xml
+C:\Users\scomeaux\source\repos\NickAPIs\RiotApiCode\RiotApiPrograming\ViridaeRiotApi\ViridaeRiotApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\scomeaux\source\repos\NickAPIs\RiotApiCode\RiotApiPrograming\ViridaeRiotApi\ViridaeRiotApi\obj\Debug\netcoreapp3.1\ViridaeRiotApi.csproj.CopyComplete

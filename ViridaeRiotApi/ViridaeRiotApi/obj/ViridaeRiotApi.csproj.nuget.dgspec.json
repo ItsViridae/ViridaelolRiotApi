@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\scomeaux\\source\\repos\\NickAPIs\\RiotApiCode\\RiotApiPrograming\\ViridaeRiotApi\\ViridaeRiotApi\\ViridaeRiotApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\scomeaux\\source\\repos\\NickAPIs\\RiotApiCode\\RiotApiPrograming\\ViridaeRiotApi\\ViridaeRiotApi\\ViridaeRiotApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\scomeaux\\source\\repos\\NickAPIs\\RiotApiCode\\RiotApiPrograming\\ViridaeRiotApi\\ViridaeRiotApi\\ViridaeRiotApi.csproj",
+        "projectName": "ViridaeRiotApi",
+        "projectPath": "C:\\Users\\scomeaux\\source\\repos\\NickAPIs\\RiotApiCode\\RiotApiPrograming\\ViridaeRiotApi\\ViridaeRiotApi\\ViridaeRiotApi.csproj",
+        "packagesPath": "C:\\Users\\scomeaux\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\scomeaux\\source\\repos\\NickAPIs\\RiotApiCode\\RiotApiPrograming\\ViridaeRiotApi\\ViridaeRiotApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\scomeaux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packages.vinformatix.com:8624/nuget/default-nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
