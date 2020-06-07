@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ViridaeRiotApi.Data.Dtos.SummonerDataDto
 {
     //Holds Account specific details
-    public class SummonerInfoDto
+    public class SummonerDto
     {
         [JsonProperty("accountId")]
         public string AccountId { get; set; }

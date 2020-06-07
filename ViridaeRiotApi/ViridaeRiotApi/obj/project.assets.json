@@ -678,25 +678,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\scomeaux\\.nuget\\packages\\": {},
+    "C:\\Users\\Viridae\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scomeaux\\source\\repos\\NickAPIs\\RiotApiCode\\RiotApiPrograming\\ViridaeRiotApi\\ViridaeRiotApi\\ViridaeRiotApi.csproj",
+      "projectUniqueName": "C:\\Users\\Viridae\\source\\repos\\ViridaelolRiotApi\\ViridaeRiotApi\\ViridaeRiotApi\\ViridaeRiotApi.csproj",
       "projectName": "ViridaeRiotApi",
-      "projectPath": "C:\\Users\\scomeaux\\source\\repos\\NickAPIs\\RiotApiCode\\RiotApiPrograming\\ViridaeRiotApi\\ViridaeRiotApi\\ViridaeRiotApi.csproj",
-      "packagesPath": "C:\\Users\\scomeaux\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scomeaux\\source\\repos\\NickAPIs\\RiotApiCode\\RiotApiPrograming\\ViridaeRiotApi\\ViridaeRiotApi\\obj\\",
+      "projectPath": "C:\\Users\\Viridae\\source\\repos\\ViridaelolRiotApi\\ViridaeRiotApi\\ViridaeRiotApi\\ViridaeRiotApi.csproj",
+      "packagesPath": "C:\\Users\\Viridae\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Viridae\\source\\repos\\ViridaelolRiotApi\\ViridaeRiotApi\\ViridaeRiotApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\scomeaux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Viridae\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -705,7 +705,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://packages.vinformatix.com:8624/nuget/default-nuget/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -741,12 +740,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -755,7 +748,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
