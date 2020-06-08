@@ -3,10 +3,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ViridaeRiotApi.Data.Entities.GameEntities;
 
 namespace ViridaeRiotApi.Data.Dtos.GameDataDto
 {
-    public class Participant
+    public class ParticipantDto
     {
         [JsonProperty("championId")]
         public int ChampionId { get; set; }

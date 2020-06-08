@@ -8,6 +8,8 @@ namespace ViridaeRiotApi.Data.Dtos.GameDataDto
 {
     public class BanDto
     {
+        public int Id { get; set; }
+
         [JsonProperty("championId")]
         public int ChampionId { get; set; }
 

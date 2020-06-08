@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ViridaeRiotApi.Data.Entities;
 
 namespace ViridaeRiotApi.Data
 {
@@ -13,5 +14,9 @@ namespace ViridaeRiotApi.Data
         {
 
         }
+
+        public DbSet<Summoner> Summoners { get; set; }
+        public DbSet<Ban> Bans { get; set; }
+        public 
     }
 }

@@ -9,6 +9,7 @@ namespace ViridaeRiotApi.Data.Entities.MatchEntities
 {
     public class Match
     {
+        public int Id { get; set; }
         [JsonProperty("champion")]
         public int Champion { get; set; }
 

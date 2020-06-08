@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ViridaeRiotApi.Data.Dtos.GameDataDto
+namespace ViridaeRiotApi.Data.Entities.GameEntities
 {
-    public class TimelineDto
+    public class Timeline
     {
         public int Id { get; set; }
         [JsonProperty("creepsPerMinDeltas")]
@@ -39,5 +39,4 @@ namespace ViridaeRiotApi.Data.Dtos.GameDataDto
         [JsonProperty("xpPerMinDeltas")]
         public Dictionary<string, double> XpPerMinDeltas { get; set; }
     }
-
 }
