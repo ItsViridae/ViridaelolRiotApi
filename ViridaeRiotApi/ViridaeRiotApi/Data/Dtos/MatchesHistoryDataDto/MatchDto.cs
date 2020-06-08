@@ -9,6 +9,7 @@ namespace ViridaeRiotApi.Data.Dtos.MatchesHistoryDataDto
 {
     public class MatchDto
     {
+        public int Id { get; set; }
         [JsonProperty("champion")]
         public int Champion { get; set; }
 

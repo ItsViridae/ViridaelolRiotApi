@@ -3,12 +3,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using ViridaeRiotApi.Data.Entities;
-using ViridaeRiotApi.Data.Entities.GameEntities;
 
-namespace ViridaeRiotApi.Data.Dtos.GameDataDto
+namespace ViridaeRiotApi.Data.Entities.GameEntities
 {
-    public class ParticipantIdentityDto
+    public class ParticipantIdentity
     {
         public int Id { get; set; }
         [JsonProperty("participantId")]
@@ -17,5 +15,4 @@ namespace ViridaeRiotApi.Data.Dtos.GameDataDto
         [JsonProperty("player")]
         public Player Player { get; set; }
     }
-
 }

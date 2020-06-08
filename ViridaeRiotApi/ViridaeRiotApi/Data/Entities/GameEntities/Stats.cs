@@ -3,11 +3,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using ViridaeRiotApi.Data.Entities.GameEntities;
 
-namespace ViridaeRiotApi.Data.Dtos.GameDataDto
+namespace ViridaeRiotApi.Data.Entities.GameEntities
 {
-    public class StatsDto
+    public class Stats
     {
         [JsonProperty("assists")]
         public int Assists { get; set; }
@@ -321,5 +320,4 @@ namespace ViridaeRiotApi.Data.Dtos.GameDataDto
         [JsonProperty("win")]
         public bool Win { get; set; }
     }
-
 }
